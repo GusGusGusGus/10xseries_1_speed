@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eELvtK6hFZWYrz7kr6olEGNEp/xlFFzZO49cHwALaXM=",
+  "Source": "DotnetHelloAPI",
+  "BasePath": "_content/DotnetHelloAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

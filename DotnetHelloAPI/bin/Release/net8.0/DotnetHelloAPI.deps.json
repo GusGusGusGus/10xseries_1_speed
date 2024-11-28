@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DotnetHelloAPI/1.0.0": {
+        "runtime": {
+          "DotnetHelloAPI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotnetHelloAPI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

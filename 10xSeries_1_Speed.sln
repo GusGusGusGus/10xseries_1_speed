@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotnetHelloAPI", "DotnetHelloAPI\DotnetHelloAPI.csproj", "{99208A63-41DB-4EFD-965E-CB761100CD48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99208A63-41DB-4EFD-965E-CB761100CD48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99208A63-41DB-4EFD-965E-CB761100CD48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99208A63-41DB-4EFD-965E-CB761100CD48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99208A63-41DB-4EFD-965E-CB761100CD48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2ABA7ECE-576B-446C-A032-63BE315D6A35}
+	EndGlobalSection
+EndGlobal

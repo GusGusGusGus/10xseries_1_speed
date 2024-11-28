@@ -1,0 +1,7 @@
+C:\MyRepos\10xSeries_1_Speed\DotnetHelloAPI\publish\DotnetHelloAPI.exe
+C:\MyRepos\10xSeries_1_Speed\DotnetHelloAPI\publish\appsettings.Development.json
+C:\MyRepos\10xSeries_1_Speed\DotnetHelloAPI\publish\appsettings.json
+C:\MyRepos\10xSeries_1_Speed\DotnetHelloAPI\publish\DotnetHelloAPI.dll
+C:\MyRepos\10xSeries_1_Speed\DotnetHelloAPI\publish\DotnetHelloAPI.deps.json
+C:\MyRepos\10xSeries_1_Speed\DotnetHelloAPI\publish\DotnetHelloAPI.runtimeconfig.json
+C:\MyRepos\10xSeries_1_Speed\DotnetHelloAPI\publish\DotnetHelloAPI.pdb
