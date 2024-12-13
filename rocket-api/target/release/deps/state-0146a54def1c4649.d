@@ -1,0 +1,12 @@
+C:\MyRepos\10xSeries_1_Speed\rocket-api\target\release\deps\libstate-0146a54def1c4649.rmeta: C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\lib.rs C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\ident_hash.rs C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\cell.rs C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\init.rs C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\shim.rs C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\type_map.rs
+
+C:\MyRepos\10xSeries_1_Speed\rocket-api\target\release\deps\libstate-0146a54def1c4649.rlib: C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\lib.rs C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\ident_hash.rs C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\cell.rs C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\init.rs C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\shim.rs C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\type_map.rs
+
+C:\MyRepos\10xSeries_1_Speed\rocket-api\target\release\deps\state-0146a54def1c4649.d: C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\lib.rs C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\ident_hash.rs C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\cell.rs C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\init.rs C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\shim.rs C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\type_map.rs
+
+C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\lib.rs:
+C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\ident_hash.rs:
+C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\cell.rs:
+C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\init.rs:
+C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\shim.rs:
+C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\state-0.6.0\src\type_map.rs:

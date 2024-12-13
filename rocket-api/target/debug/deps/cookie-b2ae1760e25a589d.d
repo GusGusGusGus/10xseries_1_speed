@@ -1,0 +1,12 @@
+C:\MyRepos\10xSeries_1_Speed\rocket-api\target\debug\deps\libcookie-b2ae1760e25a589d.rmeta: C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\lib.rs C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\builder.rs C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\parse.rs C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\jar.rs C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\delta.rs C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\same_site.rs C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\expiration.rs C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\prefix.rs
+
+C:\MyRepos\10xSeries_1_Speed\rocket-api\target\debug\deps\cookie-b2ae1760e25a589d.d: C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\lib.rs C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\builder.rs C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\parse.rs C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\jar.rs C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\delta.rs C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\same_site.rs C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\expiration.rs C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\prefix.rs
+
+C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\lib.rs:
+C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\builder.rs:
+C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\parse.rs:
+C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\jar.rs:
+C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\delta.rs:
+C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\same_site.rs:
+C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\expiration.rs:
+C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\cookie-0.18.1\src\prefix.rs:

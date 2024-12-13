@@ -1,0 +1,10 @@
+C:\MyRepos\10xSeries_1_Speed\rocket-api\target\debug\deps\libproc_macro2_diagnostics-d1b7977c84b1fd1b.rmeta: C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-diagnostics-0.10.1\src\lib.rs C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-diagnostics-0.10.1\src\ext.rs C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-diagnostics-0.10.1\src\diagnostic.rs C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-diagnostics-0.10.1\src\line.rs
+
+C:\MyRepos\10xSeries_1_Speed\rocket-api\target\debug\deps\libproc_macro2_diagnostics-d1b7977c84b1fd1b.rlib: C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-diagnostics-0.10.1\src\lib.rs C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-diagnostics-0.10.1\src\ext.rs C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-diagnostics-0.10.1\src\diagnostic.rs C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-diagnostics-0.10.1\src\line.rs
+
+C:\MyRepos\10xSeries_1_Speed\rocket-api\target\debug\deps\proc_macro2_diagnostics-d1b7977c84b1fd1b.d: C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-diagnostics-0.10.1\src\lib.rs C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-diagnostics-0.10.1\src\ext.rs C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-diagnostics-0.10.1\src\diagnostic.rs C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-diagnostics-0.10.1\src\line.rs
+
+C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-diagnostics-0.10.1\src\lib.rs:
+C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-diagnostics-0.10.1\src\ext.rs:
+C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-diagnostics-0.10.1\src\diagnostic.rs:
+C:\Users\Guzz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro2-diagnostics-0.10.1\src\line.rs:

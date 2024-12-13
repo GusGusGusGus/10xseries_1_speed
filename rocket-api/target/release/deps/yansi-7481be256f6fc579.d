@@ -1,0 +1,16 @@
+/target/release/deps/libyansi-7481be256f6fc579.rmeta: /cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/lib.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/macros.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/windows.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/attr_quirk.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/style.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/color.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/paint.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/global.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/condition.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/set.rs
+
+/target/release/deps/libyansi-7481be256f6fc579.rlib: /cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/lib.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/macros.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/windows.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/attr_quirk.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/style.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/color.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/paint.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/global.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/condition.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/set.rs
+
+/target/release/deps/yansi-7481be256f6fc579.d: /cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/lib.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/macros.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/windows.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/attr_quirk.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/style.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/color.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/paint.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/global.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/condition.rs /cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/set.rs
+
+/cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/lib.rs:
+/cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/macros.rs:
+/cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/windows.rs:
+/cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/attr_quirk.rs:
+/cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/style.rs:
+/cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/color.rs:
+/cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/paint.rs:
+/cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/global.rs:
+/cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/condition.rs:
+/cargo/registry/src/index.crates.io-6f17d22bba15001f/yansi-1.0.1/src/set.rs:
